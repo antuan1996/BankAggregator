@@ -1,0 +1,22 @@
+[
+  {
+    "name": "date",
+    "type": "string"
+  },
+  {
+    "name": "transaction",
+    "type": "string"
+  },
+  {
+    "name": "amounts",
+    "type": "number"
+  },
+  {
+    "name": "to",
+    "type": "integer"
+  },
+  {
+    "name": "from",
+    "type": "integer"
+  }
+]
